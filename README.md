@@ -9,7 +9,7 @@ Then, everything changed when I discovered Python and JavaScript.
 Only the magic of code, fueled by my dedication to learn it, could help me break into tech.   
 And when my world needed it the most, it came.  
 A couple years passed and my dream became a reality, a life as a software engineer.  
-And although my dedication and motivation is great, I have a lot to learn before I'm ready to master any langauge.  
+And although my dedication and motivation is great, I have a lot to learn before I master any langauge.  
 But I believe I can master them all..._
 
 ---
